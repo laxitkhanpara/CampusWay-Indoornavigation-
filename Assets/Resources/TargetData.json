@@ -1,0 +1,188 @@
+{
+	"TargetList": [
+		{
+			"Name": "SelectRoom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0,
+				"y": 0.00,
+				"z": 0
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room101",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 38.83,
+				"y": 0.00,
+				"z": -13.54
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room102",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 39.24,
+				"y": 0.00,
+				"z": -8.18
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room103",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 17.55,
+				"y": 0.00,
+				"z": -6.64
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room104",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -9.33,
+				"y": 0.00,
+				"z": 0.34
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room105",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -21.04,
+				"y": 0.00,
+				"z": 0.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room106",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -22.83,
+				"y": 0.00,
+				"z": 0.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": -90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room107",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -22.83,
+				"y": 0.00,
+				"z": -4.46
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room108",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -21.14,
+				"y": 0.00,
+				"z": -4.46
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Room109",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -9.7,
+				"y": 0.00,
+				"z": -4.46
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+
+		{
+			"Name": "StartPoint",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.00,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+
+		{
+			"Name": "ExtraRoom",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -5.68,
+				"y": 0.00,
+				"z": -5.67
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "SecondMainEntrance",
+			"FloorNumber": 1,
+			"Position": {
+				"x": -8.15,
+				"y": 0.00,
+				"z": -0.48
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
