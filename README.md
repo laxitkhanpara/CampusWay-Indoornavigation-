@@ -1,8 +1,5 @@
 # AR Indoor Navigation
 
-This is the corresponding github repository for create an indoor navigation app with ARFoundation WITHOUT the usage of Cloud Anchors or using ARPointCloud Data.". Using additional functionality with Unitys NavMesh + multiple navigation targets and world recentering with ZXing QRCode reading. :)
-
-
 Unity AR Foundation:
 - https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@5.0/manual/index.html
 
